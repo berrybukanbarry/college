@@ -1,0 +1,5 @@
+jam = float(input('Masukan  nilai jam = '))
+menit = float(jam*60)
+detik = float(jam*3600)
+print(jam, 'jam dirubah ke menit =',menit,'menit')
+print(jam, 'jam dirubah ke detik =' ,detik,'detik')

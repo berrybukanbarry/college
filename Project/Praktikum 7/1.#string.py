@@ -1,0 +1,8 @@
+print()
+print("Hello")
+print('Programming Language')
+print("Hello \nProgramming")
+print("Hello \tProgramming")
+print("Hello \\nProgramming")
+print(3 * 'Hello')
+print("Hello", "Programming")

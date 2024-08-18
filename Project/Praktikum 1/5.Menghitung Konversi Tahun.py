@@ -1,0 +1,5 @@
+tahun = int(input('Masukan jumlah tahun = '))
+bulan = int(tahun*12)
+hari = int(tahun*365)
+print(tahun, 'tahun dirubah menjadi bulan =',bulan,'bulan')
+print(tahun, 'tahun dirubah menjadi hari  =',hari,'hari')

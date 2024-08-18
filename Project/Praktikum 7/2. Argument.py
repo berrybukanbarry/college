@@ -1,0 +1,5 @@
+print('Bahasa Pemograman')
+print(3)
+print(9.5)
+print(True)
+print([1, 2, 3, 4, 5])
